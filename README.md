@@ -11,9 +11,9 @@ https://drive.google.com/file/d/19PpqwEnhRLqRzh9C0cb4NDWT4iRodp-f/view?usp=shari
 4. Ease of Tracking Covers.
 
 <div style="dispaly:flex">
-    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/1.jpg" width="30%">
-    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/2.jpg" width="30%">
-    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/3.jpg" width="30%">
+    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/1.jpg" width="33%">
+    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/2.jpg" width="33%">
+    <img src="https://github.com/xnsei/Project-Spotify/blob/main/images/3.jpg" width="33%">
 </div>
 
 ## To Do
